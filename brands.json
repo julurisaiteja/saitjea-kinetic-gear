@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "kinetic-gear",
+    "name": "Kinetic Gear",
+    "tagline": "Train harder. Move freer.",
+    "niche": "Sports equipment",
+    "description": "Performance sports gear for runners, lifters, and weekend athletes — tested for real sessions.",
+    "fontDisplay": "Space Grotesk",
+    "fontBody": "Inter Tight",
+    "colors": {
+      "bg": "#0f1210",
+      "fg": "#f2f7f3",
+      "muted": "#8a9a8e",
+      "primary": "#b8ff3c",
+      "accent": "#3de0ff",
+      "surface": "#171c19",
+      "border": "#2a332c",
+      "hero": "#0a0d0b"
+    },
+    "heroImageId": "photo-1517836357463-d25dfeac3438",
+    "categories": [
+      "Running",
+      "Strength",
+      "Recovery",
+      "Apparel",
+      "Accessories"
+    ],
+    "cta": "Shop the gear",
+    "checkoutNote": "Free exchanges within 30 days on unused items.",
+    "isBooking": false,
+    "products": [
+      {"name": "Apex Runner Pro", "category": "Running", "price": 148, "unsplashId": "photo-1542291026-7eec264c27ff", "description": "Carbon-plate road shoe, 8mm drop."},
+      {"name": "Iron Grip Kit", "category": "Strength", "price": 89, "unsplashId": "photo-1517963879433-6ad2b056d712", "description": "Pair of knurled dumbbells + chalk."},
+      {"name": "Pulse Resistance Bands", "category": "Strength", "price": 42, "unsplashId": "photo-1599058945522-28d584b6f14f", "description": "Five-level latex set with anchors."},
+      {"name": "Recovery Foam Roller", "category": "Recovery", "price": 36, "unsplashId": "photo-1571019614242-c5c5dee9f50b", "description": "High-density grid pattern."},
+      {"name": "Volt Training Tee", "category": "Apparel", "price": 38, "unsplashId": "photo-1556821840-3a63f95609a7", "description": "Moisture-wick mesh, reflective hit."},
+      {"name": "Trail Hydro Pack", "category": "Accessories", "price": 78, "unsplashId": "photo-1553062407-98eeb64c6a62", "description": "2L bladder, bounce-free straps."},
+      {"name": "Tempo Jump Rope", "category": "Strength", "price": 28, "unsplashId": "photo-1434682881908-b43d0467b798", "description": "Weighted handles, coated cable."},
+      {"name": "Cold Compress Wrap", "category": "Recovery", "price": 54, "unsplashId": "photo-1571019613454-1cb2f99b2d8b", "description": "Reusable gel wrap for knees/elbows."},
+      {"name": "Sprint Cap", "category": "Apparel", "price": 26, "unsplashId": "photo-1588850561407-ed78c282e89b", "description": "Lightweight tech fabric, UPF 50."},
+      {"name": "Grip Training Gloves", "category": "Accessories", "price": 32, "unsplashId": "photo-1517838277536-f5f99be501cd", "description": "Palm pads without bulk."},
+      {"name": "Altitude Soft Flask", "category": "Running", "price": 24, "unsplashId": "photo-1523362628745-0c100150b504", "description": "500ml soft flask, bite valve."},
+      {"name": "Kinetic Mat Pro", "category": "Recovery", "price": 64, "unsplashId": "photo-1601925260368-ae2f83cf8b7f", "description": "6mm yoga/mobility mat, carry strap."}
+    ]
+  }
+]
